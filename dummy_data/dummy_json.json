@@ -1,0 +1,6 @@
+{"Date": "Date", "Type": "Transaction_Type", "amount": "Amount"}
+{"Date": "12/30/2020", "Type": "Card", "amount": "12000"}
+{"Date": "12/31/2020", "Type": "Cash", "amount": "30000"}
+{"Date": "01/01/2021", "Type": "Cash", "amount": "40000"}
+{"Date": "01/02/2021", "Type": "Card", "amount": "100000"}
+{"Date": "01/03/2021", "Type": "Cash", "amount": "75000"}
